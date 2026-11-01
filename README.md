@@ -17,39 +17,30 @@
 
 ---
 
-### 🌊 Contribution Dynamics & Velocity
+### 🌊 Contribution Velocity & Activity Snake
 
 <div align="center">
-  <!-- Activity Wave: Uses verified minimal query parameters -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adamdaniel16&theme=tokyo-night&area=true&hide_border=true&v=2" width="100%" alt="Activity Wave Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Snake: Served directly from your repo's output branch -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adamdaniel16/Adamdaniel16/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adamdaniel16/Adamdaniel16/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Adamdaniel16/Adamdaniel16/output/github-contribution-grid-snake.svg" width="100%">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Adamdaniel16/Adamdaniel16/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </div>
 
 ---
 
-### 📊 Performance & Language Telemetry
+### 📊 Engineering Telemetry & Streaks
 
 <div align="center">
-  <!-- Streak Stats: Primary CDN fallback -->
-  <img src="https://streak-stats.demolab.com/?user=Adamdaniel16&theme=tokyonight&hide_border=true&v=2" width="49%" alt="Streak Stats" />
-  
-  <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Adamdaniel16&show_icons=true&theme=tokyonight&hide_border=true&v=2" width="49%" alt="GitHub Stats" />
+  <!-- Demolab high-availability streak counter -->
+  <img src="https://streak-stats.demolab.com/?user=Adamdaniel16&theme=tokyonight&hide_border=true&border_radius=8" width="75%" alt="GitHub Streak Stats" />
 </div>
 
+<br/>
+
 <div align="center">
-  <!-- Top Languages: Simplified layout -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamdaniel16&layout=compact&theme=tokyonight&hide_border=true&v=2" width="60%" alt="Top Languages" />
+  <!-- Dynamic GitHub Profile Trophy Showcase -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Adamdaniel16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="85%" alt="GitHub Trophies" />
 </div>
 
 ---
