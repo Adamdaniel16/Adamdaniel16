@@ -29,18 +29,20 @@
 
 ---
 
-### 📊 Engineering Telemetry & Streaks
+### 📊 Engineering Telemetry & Focus
 
 <div align="center">
-  <!-- Demolab high-availability streak counter -->
+  <!-- Demolab streak counter (High-availability CDN mirror) -->
   <img src="https://streak-stats.demolab.com/?user=Adamdaniel16&theme=tokyonight&hide_border=true&border_radius=8" width="75%" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Dynamic GitHub Profile Trophy Showcase -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Adamdaniel16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="85%" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-380%2B-38BDF8?style=for-the-badge&logo=git&logoColor=white" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Specialization-GraphRAG%20%26%20AI%20Safety-F43F5E?style=for-the-badge&logo=neo4j&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Degree-Master's%20Data%20%26%20AI-22C55E?style=for-the-badge&logo=python&logoColor=white" alt="Degree" />
+  <img src="https://img.shields.io/badge/Location-Belfort%2C%20France-A855F7?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
 </div>
 
 ---
