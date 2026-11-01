@@ -1,57 +1,90 @@
-# Hi, I'm Adam Zulkornain 👋
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-zulkornain/)
-[![Email](https://img.shields.io/badge/Email-zucoadam%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zucoadam@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Belfort%2C%20France-lightgrey?style=flat&logo=google-maps&logoColor=red)](https://maps.google.com/?q=Belfort,+France)
+# ⚡ Adam Zulkornain
 
-Final-year Computer Science Engineering Master's student at **UTBM** specializing in **Data Science & AI**, with prior software quality engineering experience at **Bassetti Group**. Focused on building production-grade **Knowledge Graph-augmented LLM architectures (GraphRAG)**, **Multi-Agent Alignment & Containment**, and **High-Performance Machine Learning Pipelines**.
-
----
-
-### 🔬 Core Focus & Research
-
-- **Knowledge Engineering & Hybrid RAG**: Designing dual-retrieval systems (Neo4j Cypher + FAISS vector search) with HITL graph-curation interfaces.
-- **AI Agent Containment & Safety**: Researching runtime containment, deceptive behavior detection, and interpretable failsafes in autonomous multi-agent environments.
-- **Data Engineering & Operations**: Distributed graph analytics (Neo4j GDS, OLAP/MOLAP), CI/CD pipelines (Jenkins), and robust testing frameworks (Pytest, JMeter).
-
----
-
-### 🛠️ Technical Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **AI, LLMs & Retrieval** | PyTorch, LangChain, GraphRAG, Vector RAG (FAISS, BGE), Llama-3.1, Scikit-learn, XGBoost |
-| **Graph & Databases** | Neo4j (Cypher, GDS, py2neo), RDFLib, OWL/RDF, SPARQL, PostgreSQL, MySQL, MongoDB |
-| **Languages & Frameworks** | Python (FastAPI, Flask), TypeScript (React 19, Next.js 15), R, SQL, Java, Bash |
-| **Data Engineering & BI** | Apache Kylin (OLAP/ROLAP), Power BI, Databricks, Pandas, NumPy |
-| **Quality & DevOps** | Git, Docker, Jenkins, Pytest, Selenium, JMeter, Linux Shell |
-
----
-
-### 🚀 Highlighted Engineering Projects
-
-| Project | Key Technologies | Metrics & Architecture Highlights |
-| :--- | :--- | :--- |
-| **[Interactive GraphRAG](https://github.com/Adamdaniel16/interactive-graphrag)** | FastAPI, Neo4j, LangChain, Next.js 15, Llama-3.1-8B | **75% multi-hop accuracy** (vs 37.5% baseline vector RAG); async triplet SRO extraction with SSE graph stream. |
-| **[Autonomous AI Agent Safety](https://github.com/Adamdaniel16/agent-containment-safety)** | Python, Multi-Agent LLMs, HITL Frameworks | State-of-the-art runtime containment, dynamic human-in-the-loop triggers, and cascading failure mitigations. |
-| **[Clinical Heart Disease Prediction](https://github.com/Adamdaniel16/heart-disease-prediction-ml)** | Python, XGBoost, Scikit-learn, Pandas | Evaluated across 900,000 clinical records; **0.96 peak AUC** and 89% accuracy with recall optimization for false negatives. |
-| **[VRP Optimization Engine](https://github.com/Adamdaniel16/vrp-optimization-benchmarks)** | Python, Google OR-Tools, RL, Heuristics | Benchmark suite comparing RL and multi-agent routing against Google OR-Tools for complex constraint variants. |
-| **[Enterprise Graph & OLAP Analytics](https://github.com/Adamdaniel16/enterprise-graph-analytics)** | Neo4j (GDS), Cypher, PostgreSQL, Apache Kylin | PageRank, Louvain community detection, and multidimensional OLAP cubes (CUBE, ROLLUP, GROUPING SETS). |
-
----
-
-### 📜 Certifications & Accreditations
-
-- **Google Cloud**: Data Analytics Professional Certificate
-- **NVIDIA Deep Learning Institute**: Accelerating End-to-End Data Science Workflows
-- **NVIDIA Deep Learning Institute**: Transformer-Based NLP | Getting Started with Deep Learning
-- **Databricks**: Fundamentals Accreditation
-
----
-
-### 📊 GitHub Activity
+<!-- Typing SVG Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Final-Year+AI+%26+Data+Engineering+Student+%40+UTBM;GraphRAG+%7C+Multi-Agent+Alignment+%26+Safety;Building+Production+Knowledge+Graphs+%26+Hybrid+RAG;Former+Software+Quality+Engineer+%40+Bassetti+Group" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adamdaniel16&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamdaniel16&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://linkedin.com/in/adam-zulkornain/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:zucoadam@gmail.com"><img src="https://img.shields.io/badge/Email-zucoadam%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Adamdaniel16"><img src="https://img.shields.io/badge/Portfolio-Interactive_RAG-22C55E?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
 </p>
+
+</div>
+
+---
+
+### 🌊 Live Contribution Dynamics
+
+<div align="center">
+  <!-- Dynamic Commit Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adamdaniel16&bg_color=0D1117&color=58A6FF&line=38BDF8&point=F43F5E&area=true&hide_border=true" width="100%" alt="Adam's GitHub Activity Wave Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Animated Contribution Grid Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adamdaniel16/Adamdaniel16/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adamdaniel16/Adamdaniel16/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Adamdaniel16/Adamdaniel16/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+### 📊 Performance & Commit Telemetry
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adamdaniel16&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8" width="49%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adamdaniel16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F43F5E&text_color=94A3B8" width="49%" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamdaniel16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" width="60%" alt="Top Languages" />
+</div>
+
+---
+
+### 🛠️ Architecture & Technology Stack
+
+<div align="center">
+
+| Domain | Production Tooling |
+| :--- | :--- |
+| **Knowledge Graphs & Graph DBs** | `Neo4j` `Cypher` `Neo4j GDS` `py2neo` `RDFLib` `SPARQL` `OWL/RDF` `Protégé` |
+| **LLMs, RAG & AI Safety** | `LangChain` `GraphRAG` `Vector RAG (FAISS, BGE)` `Llama-3.1` `HITL Frameworks` |
+| **Machine Learning & Analytics** | `PyTorch` `Scikit-learn` `XGBoost` `Pandas` `NumPy` `Apache Kylin (OLAP/ROLAP)` |
+| **Full-Stack & APIs** | `FastAPI` `Next.js 15` `React 19` `TypeScript` `Flask` `Symfony` `Tailwind CSS` |
+| **Testing, Quality & CI/CD** | `Pytest` `Selenium` `JMeter` `Jenkins` `Docker` `Git / GitHub Actions` |
+
+</div>
+
+---
+
+### 🚀 Highlighted Systems & Engineering Benchmarks
+
+* **[Interactive GraphRAG System](https://github.com/Adamdaniel16/interactive-graphrag)**  
+  *Designed a multi-hop GraphRAG QA pipeline using LangChain, Neo4j, and FastAPI against a baseline FAISS/BGE Vector RAG setup.*  
+  * **Metric**: Achieved **75% accuracy** on complex multi-entity queries vs. **37.5%** with standard RAG.  
+  * **Core Engineering**: Parallel asynchronous triplet (SRO) extraction via Llama-3.1-8B, defensive parsers, and a Next.js 15 / SSE real-time curation dashboard.
+
+* **[AI Agent Controllability & Safety Architectures](https://github.com/Adamdaniel16/agent-containment-safety)**  
+  *Researching containment protocols, deceptive behaviors, and cascading failure mitigations for autonomous LLM multi-agent systems.*  
+  * **Core Engineering**: Theoretical safety architecture based on runtime containment, interpretable failsafes, and dynamic Human-in-the-Loop (HITL) thresholds.
+
+* **[Clinical Heart Disease Prediction Pipeline](https://github.com/Adamdaniel16/heart-disease-prediction-ml)**  
+  *Engineered an end-to-end classification system evaluated across 900,000 clinical records.*  
+  * **Metric**: Optimized XGBoost to achieve **0.96 AUC** and **89% overall accuracy**, prioritizing false-negative suppression for clinical safety.
+
+---
+
+```sql
+SELECT focus_area, status 
+FROM engineer_profile 
+WHERE name = 'Adam Zulkornain' 
+ORDER BY impact DESC;
