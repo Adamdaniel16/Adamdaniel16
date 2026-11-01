@@ -17,35 +17,39 @@
 
 ---
 
-### 🌊 Live Contribution Dynamics
+### 🌊 Contribution Dynamics & Velocity
 
 <div align="center">
-  <!-- Dynamic Commit Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adamdaniel16&bg_color=0D1117&color=58A6FF&line=38BDF8&point=F43F5E&area=true&hide_border=true" width="100%" alt="Adam's GitHub Activity Wave Graph" />
+  <!-- Activity Wave: Uses verified minimal query parameters -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adamdaniel16&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Wave Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Animated Contribution Grid Snake -->
+  <!-- Snake: Served directly from your repo's output branch -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adamdaniel16/Adamdaniel16/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adamdaniel16/Adamdaniel16/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Adamdaniel16/Adamdaniel16/output/github-contribution-grid-snake.svg" width="100%">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Adamdaniel16/Adamdaniel16/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
 ---
 
-### 📊 Performance & Commit Telemetry
+### 📊 Performance & Language Telemetry
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adamdaniel16&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8" width="49%" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Adamdaniel16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F43F5E&text_color=94A3B8" width="49%" alt="GitHub Stats" />
+  <!-- Streak Stats: Primary CDN fallback -->
+  <img src="https://streak-stats.demolab.com/?user=Adamdaniel16&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats" />
+  
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Adamdaniel16&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamdaniel16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" width="60%" alt="Top Languages" />
+  <!-- Top Languages: Simplified layout -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamdaniel16&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages" />
 </div>
 
 ---
