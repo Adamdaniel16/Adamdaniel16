@@ -21,7 +21,7 @@
 
 <div align="center">
   <!-- Activity Wave: Uses verified minimal query parameters -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adamdaniel16&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Wave Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adamdaniel16&theme=tokyo-night&area=true&hide_border=true&v=2" width="100%" alt="Activity Wave Graph" />
 </div>
 
 <br/>
@@ -41,15 +41,15 @@
 
 <div align="center">
   <!-- Streak Stats: Primary CDN fallback -->
-  <img src="https://streak-stats.demolab.com/?user=Adamdaniel16&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Adamdaniel16&theme=tokyonight&hide_border=true&v=2" width="49%" alt="Streak Stats" />
   
   <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Adamdaniel16&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adamdaniel16&show_icons=true&theme=tokyonight&hide_border=true&v=2" width="49%" alt="GitHub Stats" />
 </div>
 
 <div align="center">
   <!-- Top Languages: Simplified layout -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamdaniel16&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamdaniel16&layout=compact&theme=tokyonight&hide_border=true&v=2" width="60%" alt="Top Languages" />
 </div>
 
 ---
